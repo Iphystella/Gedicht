@@ -1,9 +1,9 @@
-Farbpallette
+#Farbpallette
 
-Rot
-Grün
-Hell grün
-Dunkel grün
-Blau
-Gelb
-Magenta
+#Rot
+#Grün
+#Hell grün
+#Dunkel grün
+#Blau
+#Gelb
+#Magenta
